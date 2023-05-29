@@ -1,17 +1,17 @@
-package Tree.AssignmentQuestions.BinaryTreeCreationII;
+package Tree.BinaryTree.AssignmentQuestions.InClass;
 
-class Node {
-    int value;
-    Node left;
-    Node right;
-
-    public Node(int value) {
-        this.value = value;
-        this.left = null;
-        this.right = null;
-    }
-}
 public class BinaryTreeCreationII {
+    static class Node {
+        int value;
+        Node left;
+        Node right;
+
+        public Node(int value) {
+            this.value = value;
+            this.left = null;
+            this.right = null;
+        }
+    }
     public static void main(String[] args) {
         // write your code here to create the tree
         Node root = new Node(1);

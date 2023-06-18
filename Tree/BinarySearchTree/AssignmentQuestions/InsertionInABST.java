@@ -11,7 +11,7 @@ public class InsertionInABST {
         }
     }
 
-    static Node insertInBST(Node root,int key) {
+    static Node insertInBST(Node root, int key) {
         // Your code here
         if(root == null) {
             root = new Node(key);

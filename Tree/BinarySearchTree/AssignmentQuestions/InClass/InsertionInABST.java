@@ -1,4 +1,4 @@
-package Tree.BinarySearchTree.AssignmentQuestions;
+package Tree.BinarySearchTree.AssignmentQuestions.InClass;
 
 public class InsertionInABST {
     static class Node {

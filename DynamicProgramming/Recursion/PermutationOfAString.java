@@ -5,8 +5,8 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Scanner;
 
-public class SubstringOfAString {
-    static List<String> resultList = new ArrayList<String>();
+public class PermutationOfAString {
+    static List<String> resultList = new ArrayList<>();
 
     private static void swap(char strArr[], int index1, int index2) {
         char temp = strArr[index1];

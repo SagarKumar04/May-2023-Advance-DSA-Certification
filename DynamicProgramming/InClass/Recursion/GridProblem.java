@@ -1,4 +1,4 @@
-package DynamicProgramming.Recursion;
+package DynamicProgramming.InClass.Recursion;
 
 import java.util.Scanner;
 

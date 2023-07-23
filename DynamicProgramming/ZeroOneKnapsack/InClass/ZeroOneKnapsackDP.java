@@ -1,4 +1,4 @@
-package DynamicProgramming.InClass.ZeroOneKnapsack.InClass;
+package DynamicProgramming.ZeroOneKnapsack.InClass;
 
 public class ZeroOneKnapsackDP {
     static int maxWeightHelper(int w[], int v[], int W, int n, int knapsack[][]) {

@@ -1,4 +1,4 @@
-package DynamicProgramming.InClass.ZeroOneKnapsack.PostClass;
+package DynamicProgramming.ZeroOneKnapsack.PostClass;
 
 import java.util.Arrays;
 

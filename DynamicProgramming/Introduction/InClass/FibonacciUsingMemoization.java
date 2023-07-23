@@ -1,4 +1,4 @@
-package DynamicProgramming.InClass;
+package DynamicProgramming.Introduction.InClass;
 
 public class FibonacciUsingMemoization {
     static int fibHelper(int n, int fibonacci[]) {

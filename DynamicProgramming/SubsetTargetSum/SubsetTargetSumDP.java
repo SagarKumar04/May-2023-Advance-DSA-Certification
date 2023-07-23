@@ -1,4 +1,4 @@
-package DynamicProgramming.InClass.SubsetTargetSum;
+package DynamicProgramming.SubsetTargetSum;
 
 public class SubsetTargetSumDP {
     private static int targetSumHelper(int arr[], int target, int n, int subsetSum[][]) {

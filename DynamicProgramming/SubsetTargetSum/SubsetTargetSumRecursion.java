@@ -1,4 +1,4 @@
-package DynamicProgramming.InClass.SubsetTargetSum;
+package DynamicProgramming.SubsetTargetSum;
 
 public class SubsetTargetSumRecursion {
     private static boolean targetSumHelper(int arr[], int sum, int n) {

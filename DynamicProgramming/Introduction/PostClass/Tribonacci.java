@@ -1,4 +1,4 @@
-package DynamicProgramming.InClass;
+package DynamicProgramming.Introduction.PostClass;
 
 public class Tribonacci {
     static int getNthTribonacciUsingTabulation(int n) {

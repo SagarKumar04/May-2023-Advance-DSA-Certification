@@ -1,4 +1,4 @@
-package DynamicProgramming.InClass;
+package DynamicProgramming.Introduction.InClass;
 
 public class FibonacciUsingTabulation {
     static int fib(int n) {

@@ -1,4 +1,4 @@
-package DynamicProgramming.InClass.UnboundedKnapsack.InClass;
+package DynamicProgramming.UnboundedKnapsack;
 
 public class IntegerPartitionDP {
     private static long partitionIntegerHelper(int n, long partitionProduct[]) {

@@ -1,4 +1,4 @@
-package DynamicProgramming.InClass.UnboundedKnapsack.InClass;
+package DynamicProgramming.UnboundedKnapsack;
 
 public class UnboundedKnapsackRecursion {
     private static int getMaximumValueHelper(int weights[], int values[], int n, int maxWeight) {

@@ -1,4 +1,4 @@
-package DynamicProgramming.InClass.ZeroOneKnapsack.PostClass;
+package DynamicProgramming.ZeroOneKnapsack.PostClass;
 
 public class CountSubsetWithGivenDifferenceRecursion {
     static int countSubHelper(int arr[], int i, int currentSum, int requiredSum) {

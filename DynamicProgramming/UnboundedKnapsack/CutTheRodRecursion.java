@@ -1,4 +1,4 @@
-package DynamicProgramming.InClass.UnboundedKnapsack.InClass;
+package DynamicProgramming.UnboundedKnapsack;
 
 public class CutTheRodRecursion {
     private static int getMaxProfitHelper(int a[], int n) {

@@ -1,4 +1,4 @@
-package DynamicProgramming.InClass.UnboundedKnapsack.InClass;
+package DynamicProgramming.UnboundedKnapsack;
 
 import java.util.Arrays;
 

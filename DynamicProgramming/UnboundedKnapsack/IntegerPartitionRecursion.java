@@ -1,4 +1,4 @@
-package DynamicProgramming.InClass.UnboundedKnapsack.InClass;
+package DynamicProgramming.UnboundedKnapsack;
 
 public class IntegerPartitionRecursion {
     private static long partitionIntegerHelper(int n) {
